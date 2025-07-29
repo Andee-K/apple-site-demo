@@ -1,6 +1,7 @@
 # Apple Site Demo
 
 A responsive Apple-style website showcasing the MacBook Pro 2024. Built with vanilla HTML and CSS.
+<img width="1364" height="710" alt="Screenshot 2025-07-29 at 5 00 13 PM" src="https://github.com/user-attachments/assets/5114de0b-b720-4370-af89-69d924742368" />
 
 ## 🚀 Features
 
