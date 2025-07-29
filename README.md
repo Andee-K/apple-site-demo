@@ -18,22 +18,6 @@ A responsive Apple-style website showcasing the MacBook Pro 2024. Built with van
 - Font Awesome Icons
 - Google Fonts (Open Sans)
 
-## 📁 Project Structure
-
-```
-apple-site-demo/
-├── index.html          # Main HTML file
-├── styles.css          # CSS stylesheet
-├── images/             # Project images
-└── README.md           # This file
-```
-
-## 🚀 Quick Start
-
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Or serve locally: `python -m http.server 8000`
-
 ## 🎨 Design System
 
 ### Colors
@@ -71,23 +55,6 @@ apple-site-demo/
 ### Footer
 - Multi-column layout
 - Breadcrumbs and legal links
-
-## 🔧 Customization
-
-### Change Colors
-```css
-:root {
-    --text-color: #your-color;
-    --primary-color: #your-accent;
-}
-```
-
-### Add Components
-Follow BEM naming:
-```css
-.new-component { }
-.new-component__element { }
-```
 
 ## 📱 Responsive Design
 
